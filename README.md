@@ -27,3 +27,8 @@
 
 ### Supporting Docs
 
+### Commands
+
+```sh
+LOG_LEVEL=debug pnpm ts-node lib/renovate.ts --dry-run=false
+```
