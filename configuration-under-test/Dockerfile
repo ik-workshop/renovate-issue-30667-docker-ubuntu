@@ -1,1 +1,1 @@
-FROM ubuntu:jammy-20231211.1
+FROM ubuntu:24.04
