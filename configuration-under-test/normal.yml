@@ -1,0 +1,4 @@
+
+image:
+  # renovate: depName=ubuntu
+  tag: jammy-20220531

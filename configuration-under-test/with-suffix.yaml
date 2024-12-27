@@ -1,0 +1,3 @@
+image:
+  # renovate: depName=ubuntu
+  tag: jammy-20231211.1
